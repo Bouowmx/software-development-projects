@@ -12,6 +12,15 @@ Description: Search Ebay and get a list of commonly used attributes to refine th
 Clone: https://github.com/RzhanRichardZhan/syrzAPI.git
 
 
+# Best Project 2015:
+
+Other Member(s): Albert, Richard, Steven
+
+Description: Mafia via JavaScript and WebSocket.
+
+Clone: https://github.com/Bouowmx/best-project-2015.git
+
+
 # Intro Project 1:
 
 Other Member(s): Albert
